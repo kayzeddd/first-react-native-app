@@ -6,7 +6,7 @@ import axios from 'axios';
 // require("dotenv").config();
 // const { JSEARCH_API_KEY } = process.env;
 
-const dontStealPls = "a74bf264f1msh5a71a8e64ba0f42p1848e5jsn04ffb7a367ec"
+const dontStealPls = "6838fd52fdmshdc0e1aa74498333p196901jsn2f4022cf06d8"
 
 const useFetch = (endpoint, query) =>{
     const [data, setData] = useState([])
